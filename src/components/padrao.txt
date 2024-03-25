@@ -1,0 +1,8 @@
+o padrao é criar uma pasta com o nome do componete exemplo:
+CustomButtom
+    -index.tsx
+    -styles.ts
+
+e para exportar nao se usa o default ex:
+
+export {CustomButtom};
