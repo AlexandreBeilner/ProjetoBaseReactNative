@@ -1,9 +1,10 @@
 import React from "react";
 import { Text } from "react-native";
+import { Navigator } from "./navigation/Navigation.tsx";
 
 const App: React.FC = () => {
   return(
-    <Text style={{fontFamily: "Nunito-Regular"}}>App</Text>
+    <Navigator/>
   )
 }
 
